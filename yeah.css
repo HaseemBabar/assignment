@@ -17,13 +17,14 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 font-size: 14px;
 }
 
-.btn{width: 300px;
-height: 40px;
-border-radius: 20px;
-border: 1px solid white;
-
-color:red;
-text-align: center;
+.btn{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid white;
+    background-color: white;
+    color:red;
+    text-align: center;
 }
 
 .icons{height:20px;
